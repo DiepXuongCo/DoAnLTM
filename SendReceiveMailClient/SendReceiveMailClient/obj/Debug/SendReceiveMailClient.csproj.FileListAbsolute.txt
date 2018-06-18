@@ -1,0 +1,12 @@
+E:\đồ Án LTM\SendReceiveMailClient\SendReceiveMailClient\bin\Debug\SendReceiveMailClient.exe.config
+E:\đồ Án LTM\SendReceiveMailClient\SendReceiveMailClient\bin\Debug\SendReceiveMailClient.exe
+E:\đồ Án LTM\SendReceiveMailClient\SendReceiveMailClient\bin\Debug\SendReceiveMailClient.pdb
+E:\đồ Án LTM\SendReceiveMailClient\SendReceiveMailClient\bin\Debug\Mail.dll
+E:\đồ Án LTM\SendReceiveMailClient\SendReceiveMailClient\bin\Debug\Mail.xml
+E:\đồ Án LTM\SendReceiveMailClient\SendReceiveMailClient\obj\Debug\SendReceiveMailClient.csprojResolveAssemblyReference.cache
+E:\đồ Án LTM\SendReceiveMailClient\SendReceiveMailClient\obj\Debug\SendReceiveMailClient.Form1.resources
+E:\đồ Án LTM\SendReceiveMailClient\SendReceiveMailClient\obj\Debug\SendReceiveMailClient.Properties.Resources.resources
+E:\đồ Án LTM\SendReceiveMailClient\SendReceiveMailClient\obj\Debug\SendReceiveMailClient.csproj.GenerateResource.Cache
+E:\đồ Án LTM\SendReceiveMailClient\SendReceiveMailClient\obj\Debug\SendReceiveMailClient.csproj.CoreCompileInputs.cache
+E:\đồ Án LTM\SendReceiveMailClient\SendReceiveMailClient\obj\Debug\SendReceiveMailClient.exe
+E:\đồ Án LTM\SendReceiveMailClient\SendReceiveMailClient\obj\Debug\SendReceiveMailClient.pdb

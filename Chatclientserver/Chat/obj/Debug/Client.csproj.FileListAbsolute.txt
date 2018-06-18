@@ -1,0 +1,79 @@
+D:\Do An\LT Mang\Chat\Chat\bin\Debug\Chat.exe.config
+D:\Do An\LT Mang\Chat\Chat\bin\Debug\Chat.exe
+D:\Do An\LT Mang\Chat\Chat\bin\Debug\Chat.pdb
+D:\Do An\LT Mang\Chat\Chat\obj\Debug\Chat.frmClient.resources
+D:\Do An\LT Mang\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+D:\Do An\LT Mang\Chat\Chat\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Do An\LT Mang\Chat\Chat\obj\Debug\Chat.exe
+D:\Do An\LT Mang\Chat\Chat\obj\Debug\Chat.pdb
+E:\Chat\Chat\bin\Debug\Chat.exe.config
+E:\Chat\Chat\bin\Debug\Chat.exe
+E:\Chat\Chat\bin\Debug\Chat.pdb
+E:\Chat\Chat\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Chat\Chat\obj\Debug\Chat.frmClient.resources
+E:\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+E:\Chat\Chat\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Chat\Chat\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Chat\Chat\obj\Debug\Chat.exe
+E:\Chat\Chat\obj\Debug\Chat.pdb
+E:\Chat-1\Chat\bin\Debug\Chat.exe.config
+E:\Chat-1\Chat\bin\Debug\Chat.exe
+E:\Chat-1\Chat\bin\Debug\Chat.pdb
+E:\Chat-1\Chat\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Chat-1\Chat\obj\Debug\Chat.frmClient.resources
+E:\Chat-1\Chat\obj\Debug\Chat.Properties.Resources.resources
+E:\Chat-1\Chat\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Chat-1\Chat\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Chat-1\Chat\obj\Debug\Chat.exe
+E:\Chat-1\Chat\obj\Debug\Chat.pdb
+E:\Đồ Án lập trình mạng\Chat-1\Chat\bin\Debug\Chat.exe.config
+E:\Đồ Án lập trình mạng\Chat-1\Chat\bin\Debug\Chat.exe
+E:\Đồ Án lập trình mạng\Chat-1\Chat\bin\Debug\Chat.pdb
+E:\Đồ Án lập trình mạng\Chat-1\Chat\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Đồ Án lập trình mạng\Chat-1\Chat\obj\Debug\Chat.frmClient.resources
+E:\Đồ Án lập trình mạng\Chat-1\Chat\obj\Debug\Chat.Properties.Resources.resources
+E:\Đồ Án lập trình mạng\Chat-1\Chat\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Đồ Án lập trình mạng\Chat-1\Chat\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Đồ Án lập trình mạng\Chat-1\Chat\obj\Debug\Chat.exe
+E:\Đồ Án lập trình mạng\Chat-1\Chat\obj\Debug\Chat.pdb
+E:\Đồ Án lập trình mạng\Chat-1\Chat\obj\Debug\Chat.Img.resources
+E:\Đồ Án lập trình mạng-1\Chat-1\Chat\bin\Debug\Chat.exe.config
+E:\Đồ Án lập trình mạng-1\Chat-1\Chat\bin\Debug\Chat.exe
+E:\Đồ Án lập trình mạng-1\Chat-1\Chat\bin\Debug\Chat.pdb
+E:\Đồ Án lập trình mạng-1\Chat-1\Chat\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Đồ Án lập trình mạng-1\Chat-1\Chat\obj\Debug\Chat.frmClient.resources
+E:\Đồ Án lập trình mạng-1\Chat-1\Chat\obj\Debug\Chat.Properties.Resources.resources
+E:\Đồ Án lập trình mạng-1\Chat-1\Chat\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Đồ Án lập trình mạng-1\Chat-1\Chat\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Đồ Án lập trình mạng-1\Chat-1\Chat\obj\Debug\Chat.exe
+E:\Đồ Án lập trình mạng-1\Chat-1\Chat\obj\Debug\Chat.pdb
+E:\đồ Án LTM\Chat-1\Chat\bin\Debug\Chat.exe.config
+E:\đồ Án LTM\Chat-1\Chat\bin\Debug\Chat.exe
+E:\đồ Án LTM\Chat-1\Chat\bin\Debug\Chat.pdb
+E:\đồ Án LTM\Chat-1\Chat\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\đồ Án LTM\Chat-1\Chat\obj\Debug\Chat.frmClient.resources
+E:\đồ Án LTM\Chat-1\Chat\obj\Debug\Chat.Properties.Resources.resources
+E:\đồ Án LTM\Chat-1\Chat\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\đồ Án LTM\Chat-1\Chat\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\đồ Án LTM\Chat-1\Chat\obj\Debug\Chat.exe
+E:\đồ Án LTM\Chat-1\Chat\obj\Debug\Chat.pdb
+E:\đồ Án LTM\Chatclientserver\Chat\bin\Debug\Chat.exe.config
+E:\đồ Án LTM\Chatclientserver\Chat\bin\Debug\Chat.exe
+E:\đồ Án LTM\Chatclientserver\Chat\bin\Debug\Chat.pdb
+E:\đồ Án LTM\Chatclientserver\Chat\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\đồ Án LTM\Chatclientserver\Chat\obj\Debug\Chat.frmClient.resources
+E:\đồ Án LTM\Chatclientserver\Chat\obj\Debug\Chat.Properties.Resources.resources
+E:\đồ Án LTM\Chatclientserver\Chat\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\đồ Án LTM\Chatclientserver\Chat\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\đồ Án LTM\Chatclientserver\Chat\obj\Debug\Chat.exe
+E:\đồ Án LTM\Chatclientserver\Chat\obj\Debug\Chat.pdb
+D:\đồ Án LTM\Chatclientserver\Chat\bin\Debug\Chat.exe.config
+D:\đồ Án LTM\Chatclientserver\Chat\bin\Debug\Chat.exe
+D:\đồ Án LTM\Chatclientserver\Chat\bin\Debug\Chat.pdb
+D:\đồ Án LTM\Chatclientserver\Chat\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\đồ Án LTM\Chatclientserver\Chat\obj\Debug\Chat.frmClient.resources
+D:\đồ Án LTM\Chatclientserver\Chat\obj\Debug\Chat.Properties.Resources.resources
+D:\đồ Án LTM\Chatclientserver\Chat\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\đồ Án LTM\Chatclientserver\Chat\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\đồ Án LTM\Chatclientserver\Chat\obj\Debug\Chat.exe
+D:\đồ Án LTM\Chatclientserver\Chat\obj\Debug\Chat.pdb
